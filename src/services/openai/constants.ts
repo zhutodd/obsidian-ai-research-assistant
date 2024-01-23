@@ -1,6 +1,6 @@
 import models from './models'
 
-export const OPEN_AI_BASE_URL = 'https://api.openai.com'
+export const OPEN_AI_BASE_URL = 'http://localhost:1234'
 export const OPEN_AI_API_KEY_URL =
   'https://platform.openai.com/account/api-keys'
 
